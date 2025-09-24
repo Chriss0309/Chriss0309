@@ -7,7 +7,7 @@ Software Engineer / Builder
 I like to build cool stuffs.
 
 * 🌍  I'm based in Toronto, Canada.
-* 🖥️  See my portfolio at [https://chrisooi-portfolio.netlify.app/](http://chrisooi-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [https://portfolio-christophers-projects-5a358e6c.vercel.app/](https://portfolio-christophers-projects-5a358e6c.vercel.app/)
 * ✉️  You can contact me at [ooichristopher8@gmail.com](mailto:ooichristopher8@gmail.com)
 * 🚀  I'm currently working on [MentorTrader](http://mentor-trader.vercel.app/)
 * ⚡  I love to play poker 🃏
