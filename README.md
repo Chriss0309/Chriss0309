@@ -1,19 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris
 =============================================================================================================================
 
-Software Engineer / Builder
+Software Engineer 
 ---------------------------
 
 I like to build cool stuffs.
 
 * 🌍  I'm based in Toronto, Canada.
-* 🖥️  See my portfolio at [https://portfolio-christophers-projects-5a358e6c.vercel.app/](https://portfolio-christophers-projects-5a358e6c.vercel.app/)
+* 🖥️  See my portfolio at [https://portfolio-christophers-projects-5a358e6c.vercel.app/](https://portfolio-christophers-projects-5a358e6c.vercel.app/)  (OLD ver) (*Currently working on new one)
 * ✉️  You can contact me at [ooichristopher8@gmail.com](mailto:ooichristopher8@gmail.com)
 * 🚀  I'm currently working on [MentorTrader](http://mentor-trader.vercel.app/)
 * ⚡  I love to play poker 🃏
 
-<a href="https://www.github.com/Chriss0309" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Chriss0309?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Skills
 
