@@ -10,7 +10,7 @@ I like to build cool stuffs.
 * 🚀  I'm currently working on [MentorTrader](http://mentor-trader.vercel.app/)
 * ⚡  I love to play poker 🃏
 
-(https://github.com/Chriss0309/Chriss0309/blob/output/github-contribution-grid-snake.svg)
+https://github.com/Chriss0309/Chriss0309/blob/output/github-contribution-grid-snake.svg
 
 <a href="http://www.github.com/Chriss0309"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chriss0309&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
